@@ -6,6 +6,6 @@ def key_for_min_value(name_hash)
   keya = 0 
   name_hash.each do |key, value|
     if valuea == 0 || value < keya 
-      puts nil 
+      valuea
     elsif value >= 2 
 end
