@@ -8,4 +8,3 @@ def key_for_min_value(name_hash)
     elsif value >= 2 
     puts key 
 end
-end
