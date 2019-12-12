@@ -5,7 +5,8 @@ def key_for_min_value(name_hash)
   name_hash.collect do |key, value|
     if value == nil 
       puts nil 
-    elsif value 
+    elsif value >= 2 
+    puts key 
 end
 
 end
