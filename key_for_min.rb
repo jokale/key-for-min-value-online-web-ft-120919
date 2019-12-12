@@ -8,5 +8,6 @@ def key_for_min_value(name_hash)
     if valuea == 0 || value < keya 
       valuea = value 
       keya = key 
+    end 
+  end 
     
-end
